@@ -46,3 +46,5 @@
 ## 폴더 구조
 
 ## 상세 버전
+
+https://app.notion.com/p/RFM-354ea374812d8036b8b0e1569966b54d?source=copy_link
