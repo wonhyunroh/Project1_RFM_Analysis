@@ -106,7 +106,7 @@
 
 ## 폴더 구조
 
-
+```
 Project1_RFM_Analysis/
 ├── README.md              # 프로젝트 개요 (현재 문서)
 ├── data/                  # 원본 데이터
@@ -116,7 +116,7 @@ Project1_RFM_Analysis/
 │   └── Project1_RFM.sql   # RFM 점수화·세그먼트 쿼리
 ├── results/               # 쿼리 실행 결과 (R·F·M·RFM 점수)
 └── image/                 # 분석 차트 (파레토, RM 산점도)
-
+```
 
 
 ## 상세 버전
