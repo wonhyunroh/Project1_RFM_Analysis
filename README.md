@@ -121,4 +121,6 @@ Project1_RFM_Analysis/
 
 ## 상세 버전
 
-https://app.notion.com/p/RFM-354ea374812d8036b8b0e1569966b54d?source=copy_link
+전체 분석 과정(EDA, RFM 점수화 기준, 세그먼트별 상세 및 모든 쿼리)은 Notion에서 확인할 수 있습니다.
+
+**[Notion에서 전체 보기](https://hurricane-poultry-5ea.notion.site/RFM-354ea374812d8036b8b0e1569966b54d)**
